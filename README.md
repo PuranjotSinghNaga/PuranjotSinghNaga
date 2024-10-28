@@ -1,16 +1,13 @@
-## Hi there 👋
+## Puranjot Here 🌏
 
-<!--
-**PuranjotSinghNaga/PuranjotSinghNaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub followers](https://img.shields.io/github/followers/PuranjotSinghNaga?style=flat)
+![GitHub User's stars](https://img.shields.io/github/stars/PuranjotSinghNaga?style=flat)
+![](https://komarev.com/ghpvc/?username=PuranjotSinghNaga)
 
-Here are some ideas to get you started:
+[![trophy](https://github-profile-trophy.vercel.app/?username=PuranjotSinghNaga&theme=onedark&column=-1)](https://github.com/PuranjotSinghNaga/github-profile-trophy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+<a href="https://github.com/PuranjotSinghNaga" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuranjotSinghNaga&layout=compact&theme=tokyonight" /></a>
+</p> 
+
